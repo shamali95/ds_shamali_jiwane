@@ -42,8 +42,12 @@ git@github.com:shamali95/ds_shamali_jiwane.git
 
 3. Make sure the required CSV files are in `csv_files/` directory:
 
-   - `trader_data.csv`
-   - `sentiment_data.csv`
+📂 Dataset Links
+   1. Historical Trader Data:
+   https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing
+   2. Fear & Greed Index:
+   https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view?usp=sharing
+   
 
 4. Run all cells to reproduce the analysis.
 
